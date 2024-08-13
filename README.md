@@ -117,10 +117,21 @@ To get started with the project, follow these steps:
 - **File**: `src/test/java/com/example/inventory/PartTest.java`
 - **Lines**: Added unit tests on lines X to Y.
 
+### Screenshots
+![tech1](https://github.com/user-attachments/assets/2836297e-4713-406b-92c2-4a22433514f5)
+![tech2](https://github.com/user-attachments/assets/2e05e689-97e3-4bde-9324-f325a5a7d704)
+![tech3](https://github.com/user-attachments/assets/8857c04b-5868-491d-8c38-dca9202159c2)
+![tech4](https://github.com/user-attachments/assets/309e05de-475e-4fd3-92c0-e89ba421b0af)
+
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+MIT License
 
-## Contact
+Copyright (c) 2024 Benjamin Anderson
 
-For questions or support, please contact me at benanderson370@gmail.com.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
