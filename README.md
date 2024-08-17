@@ -67,7 +67,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone [Repository URL]
+   git clone https://github.com/Selvawen/SpringBoot-Inventory-Management.git
 
 2. **Set Up the Development Environment**:
     Follow the instructions in the provided setup.md file to configure your development environment.
